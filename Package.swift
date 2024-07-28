@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "mightyJoeListApp",
+    name: "ListApp",
     platforms: [
        .macOS(.v13)
     ],

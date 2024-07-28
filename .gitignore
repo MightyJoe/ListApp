@@ -3,15 +3,21 @@
 .bash_history
 .build
 .cache/
+.env
+.env*
+! .env.example
 .swiftpm
 .vagrant
 .vscode
+db.sqlite
 DerivedData/
 DS_Store
 node_modules
 Package.resolved
 Packages
 Tests/LinuxMain.swift
+xcuserdata
+
 
 # API Docs Generation
 generate-package-api-docs.swift
