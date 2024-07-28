@@ -1,0 +1,19 @@
+*.log
+*.xcodeproj
+.bash_history
+.build
+.cache/
+.swiftpm
+.vagrant
+.vscode
+DerivedData/
+DS_Store
+node_modules
+Package.resolved
+Packages
+Tests/LinuxMain.swift
+
+# API Docs Generation
+generate-package-api-docs.swift
+public/
+theme-settings.json
